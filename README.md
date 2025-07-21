@@ -1,7 +1,7 @@
-## My-Tableau-Dashboards
+# My-Tableau-Dashboards
 "Design is the best ambassador of your brand."
 
-# These dashboards were created for the DnD (Data n Dashboard) company along with the company's design team.
+## These dashboards were created for the DnD (Data n Dashboard) company along with the company's design team.
 
 <img width="1200" height="1300" alt="Charity Services" src="https://github.com/user-attachments/assets/4017f4af-3fc6-4d1d-b207-660b9fe44f95" />
 
@@ -9,7 +9,7 @@
 
 <img width="1400" height="850" alt="Population Estimates" src="https://github.com/user-attachments/assets/adb36667-0d56-487c-a9fe-e45d42833462" />
 
-# These are my first tableau practice dashboards
+## These are my first tableau practice dashboards
 
 <img width="1155" height="592" alt="HR" src="https://github.com/user-attachments/assets/ba301b20-1cca-4799-aa1a-438704af0786" />
 
